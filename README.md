@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Max and I’m a professional web developer with 8+ years of experience.
+My name is Max and I’m a professional web developer with 10+ years of experience.
 
 My skills:
 - ⚡ Javascript: ES6/7/8
